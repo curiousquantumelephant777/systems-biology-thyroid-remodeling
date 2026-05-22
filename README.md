@@ -21,7 +21,7 @@ This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which ident
 - **Spirulina-Curcumin-Boswellia Complex:** Utilized as a synergistic anti-inflammatory and anti-proliferative stack, modeled after the Stancioiu et al. (2019) [[2]](#ref2) clinical trial which demonstrated significant reduction in benign thyroid nodule surface area (P=0.027).
 - Zinc, vitamin D
 ### Photobiomodulation
-- 2 months of red light therapy
+- 2 months of red light therapy (note: this caused a paradoxical reaction, which you can read about [here](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling/blob/main/insights/Transient-RNA-Alteration-Hypothesis.md), so I have stopped this intervention.
 ### Lifestyle Modifications
 - Regular aerobic exercise and strength training
 - Avoiding gluten and inflammatory triggers/artificial ingredients
