@@ -1,0 +1,19 @@
+## 🧪Insight: ThinPrep/QuickDiff versus Cell Block/H&E: The Trees and the Forest
+
+### Observations
+The subject in this 'n-of-1' initially had a benign thyroid biopsy (February 2024) with bland-appearing sheets and clusters of follicular cells for both nodules (the same topological lattice). The cellular density in this first biopsy correlated with the echogenicity (hypoechoic smaller nodule: hypercellular, isoechoic larger one: moderately cellular). This biopsy was performed using 6 H&E smear slides, 2 DiffQuik smear slides and one cell button/block. 
+
+The second biopsy returned an indeterminate result for both nodules (oncocytic type) with pale chromatin and pleomorphism in the larger nodule. This one was done with fized slides and ThinPrep.
+
+### Methodology Research
+ThinPrep involves spinning the thyroid cells in a tube (centrifugation) and adding a preservative. The cells are then flattened onto a slide. Though this preserves nuclear detail, it can lead to several artifacts. For example, it is known to obscure colloid, which is a significant indicator of a benign process [1](#ref1). Both of this subject's nodules displayed colloid in the two biopsies, and it is hypothesized that this colloid washing artifact led the diagnosis to skew more towards Bethesda III (indeterminate) compared to the first one which was Bethesda II (benign). ThinPrep was also found to distort the cytoplasm [1](#ref1), and it is hypothesized that this may have led to the pale chromatin artifacts. ThinPrep is analogous to clearing the forest (background blood and colloid) and analyzing the trees. I've also read about AI technologies integrated with ThinPrep which display the 25 most worrisome cells, analogous to presenting the 25 most unusual trees in the forest. Benign conditions (e.g., Hashimoto's thyroiditis) are known to create oncocytic cells, and AI tools should be trained to identify the signature of this compared to true oncocytic neoplasms. I am not sure if AI was implemented here, but the university the biopsy was done at is actively researching AI-powered pathology tools.
+
+Conversely, the cell block method preserves the underlying architecture of the follicular lattice (the entire context of the forest). Cell blocks involve a centrifugation process that spins down the cells into a paraffin wax block, which can be cut into sections and stained to further refine the diagnosis [2](#ref2). In my opinion, this method is better for differentiating complex Hürthle cell neoplasms from benign oncocytic metaplasia (a known diagnostic challenges), especially in cases of chronic lymphocytic thyroditis (e.g., with lymphocytes seen in biopsy, TPO/TgAb antibodies, or symptomology). 
+
+### Hypothesis
+It is hypothesized that the third biopsy will return a result closer to the first one with the repeated scientific procedure (6 H&E smear slides, 2 DiffQuik smear slides and one cell button/block). Note that there were several confounding variables on the second one (the phototoxic burn and systemic dental infection) which likely contributed to the atypia, but it's proposed that the ThinPrep combined with these factors created a "perfect storm" that heavily distorted the trees within the forest, while the background forest 3-dimensional topological layout remained relatively similar.
+
+### References
+1. <a id="ref1"></a> Biscotti, C. V., Hollow, J. A., Toddy, S. M., & Easley, K. A. (1995). ThinPrep versus conventional smear cytologic preparations in the analysis of thyroid fine-needle aspiration specimens. *American journal of clinical pathology*, *104*(2), 150–153. https://doi.org/10.1093/ajcp/104.2.150
+2. <a id="ref2"></a> Jambhulkar, M., Bhatia, J. K., & Singh, S. K. (2022). Correlation Between Fine-Needle Aspiration Cytology, Cell Block Cytology, and Histopathology in the Diagnosis of Thyroid Lesions. *Journal of cytology*, *39*(3), 91–97. https://doi.org/10.4103/joc.joc_80_21
+
