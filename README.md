@@ -1,5 +1,8 @@
-# 🧩 The Tg/Treg Paradox: Elevated Thyroglobulin in the Absence of Classic Autoimmunity
-This repository documents a longitudinal 'n-of-1' case study where targeted holistic supplementation and photobiomodulation were used to manage a benign multinodular thyroid goiter, which resulted in improved sonographic topological features. The nodule demonstrated a favorable geometric shift from a Taller-than-Wide (TTW) orientation to a Wider-than-Tall (WTT) configuration, reducing its ACR TI-RADS point aggregate. It also introduces an clinical paradox: autoimmune thyroid symptoms and profoundly high serum thyroglobulin ($\{Tg}$) despite being clinically euthyroid. This study challenges the hypothesis of inert nodules, suggesting that benign, clinically euthyroid nodules may nonetheless exert immunological toxicity through localized $\{Tg}$ signaling and the subsequent disruption of the $\{Tg/Treg}$ regulatory axis.
+# 🧩 The Tg/Treg Paradox and Other Functional Medicine Insights
+
+This repository started as a longitudinal 'n-of-1' case study where targeted holistic supplementation and photobiomodulation were used to manage a benign multinodular thyroid goiter, which resulted in improved sonographic topological features. The nodule demonstrated a favorable geometric shift from a Taller-than-Wide (TTW) orientation to a Wider-than-Tall (WTT) configuration, reducing its ACR TI-RADS point aggregate. It also introduces an clinical paradox: autoimmune thyroid symptoms and profoundly high serum thyroglobulin ($\{Tg}$) despite being clinically euthyroid. This study challenges the hypothesis of inert nodules, suggesting that benign, clinically euthyroid nodules may nonetheless exert immunological toxicity through localized $\{Tg}$ signaling and the subsequent disruption of the Tg/$\{Tg/Treg} regulatory axis.
+
+This n-of-1 has sparked my interest in functional medicine, going beyond rigid guidelines (e.g., thyroid RFA being contraindicated for any indeterminate mutation). 
 
 ## Project Overview
 
@@ -13,8 +16,13 @@ When Treg function is impaired (e.g., reduced FoxP3 expression or diminished $IL
 
 This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which identified a distinct population of thyroid-resident $T_{reg}$ cells that express and secrete Thyroglobulin $\{Tg}$. It is hypothesized that the subject's extreme Tg elevation ($554 \text{ ng/mL}$) disrupts this paracrine regulatory loop, leading to the observed autoimmune systemic symptoms and mild interstitial myxedema. Specifically, this project posits prolonged activation of these thyroid-resident $T_{reg}$ cells leads to long-term downregulation, which modulates the autoimmune symptoms.
 
+## Additional Functional Med Insights:
 
-
+- **Genetic Testing:** Understanding neuropsychiatric phenotypes through targeted genomic analysis (e.g., *MTHFR*, *COMT*, *BDNF*) and comparing to PGX clinical databases
+- **Oral and Systemic Health Connection:** Examining how oral health pathology affects systemic physical and mental health
+- **Subclinical Deficencies:** Analyzing how subclinical functional vitamin deficencies can cause symptoms
+- **Gut-Brain Axis and Epigenetics:** Exploring how targeted gut health supplementation and environmental changes can positively impact systemic health (especially in neurodivergent individuals)
+ 
 ## **Key Interventions**
 
 ### Targeted biochemical supplementation:
@@ -24,13 +32,18 @@ This model draws upon the findings of Li et al. (2019) [[1]](#ref1), which ident
 - 2 months of red light therapy (note: this caused a paradoxical reaction, which you can read about [here](https://github.com/curiousquantumelephant777/systems-biology-thyroid-remodeling/blob/main/insights/Transient-RNA-Alteration-Hypothesis.md)), so I have stopped this intervention.
 ### Lifestyle Modifications
 - Regular aerobic exercise and strength training
-- Avoiding gluten and inflammatory triggers/artificial ingredients
+- Avoiding gluten and inflammatory triggers/artificial ingredients/boosting quertecin
 ### GDNF Stimulation Axis
 - 5 months of targeted GDNF stimulation via polyphenols, multimodal exercise, and photobiomodulation, which is hypothesized to have catalyzed the remodeling
-
+### Conservative RFA
+- Conservative thyroid-sparing RFA treatment despite indeterminate low-level *NRAS Q61* mutation conflicting with benign biopsy, illustrating the need for 
+### Targeted Gut and Liver Health Supplements 
+- Probiotics, prebiotics, fiber-filled foods, butyrate- and gluthianone-stimulating foods (like yogurt, legumes, milk thistle (silymarin) and asparagus)
+  
 ## **Longitudinal Data:**
 - At 14 month follow-up ultrasound, the smaller, concerning nodule downgraded in TIRADS category (TIRADS-5 to TIRADS-4),
 - The nodule increased in echogenicity, and shifted to a wider-than-tall shape, both indicators of a benign remodeling process. The nodule did increase slightly in volume, but remained within the margins of clinical stability. This is interpreted as a structural reorganization of the follicular space rather than pathological proliferation, given the concurrent improvement in morphological symmetry and echogenicity. Thyroglobulin resorption involves  pinocytosis, an energy-intensive process. It is theorized that the ATP stimulation via cytochrome C upregulation during photobiomodulation helps encourage this process. This could explain the favorable shift in echogenicity and geometrical shape as the stagnant follicular cells begin to pinocytose.
+- RFA was done June 2026, awaiting follow-up ultrasound in a month.
 
 ### 📊 Understanding TI-RADS
 
@@ -50,7 +63,7 @@ The aggregate score determines the TI-RADS category and the subsequent recommend
 At the 14-month follow-up, the smaller, concerning nodule exhibited a structural downgrade from **TI-RADS 5** to **TI-RADS 4**. Under the $T_{reg}$ downregulation hypothesis, this shift suggests a favorable change in the nodule’s internal architecture, potentially reflecting:
 
 * **Echnogenicity Regularization:** An upward trend in echogenicity as interstitial fluid dynamics and localized cytokine balance improve.
-* **Structural Stabilization:** A reduction in the "suspicious" sonographic features previously driven by localized inflammatory pressure.
+* **Structural Stabilization:** A reduction in the "suspicious" sonographic features previously driven by localized inflammatory pressure. 
 
 ## **Future Directions:**
 - Investigating the biochemical and epigenetic factors behind these changes
